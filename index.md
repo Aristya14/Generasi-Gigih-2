@@ -1,9 +1,6 @@
 ## Welcome to Aristya's Portofolio
 
-You can use the [editor on GitHub](https://github.com/Aristya14/Final-Project-KK/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-### Markdown
-
+### My Information
 Aristya Vika Wijaya
 final-year student of Informatics Engineering at ITS
 [Linkedin](https://www.linkedin.com/in/aristya-vika-abab17b3/)
