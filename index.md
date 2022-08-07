@@ -1,9 +1,8 @@
 ## Welcome to Aristya's Portofolio
 
 ### My Information
-Aristya Vika Wijaya
-final-year student of Informatics Engineering at ITS
-[Linkedin](https://www.linkedin.com/in/aristya-vika-abab17b3/)
+Hii !! I am a final-year student of the Informatics Department in Sepuluh Nopember Institute of Technology. I am interested in data analysis and web development. I actively partake in various organizational activities in around the campus. Where I develop my leadership and team management skills.
+**[Linkedin](https://www.linkedin.com/in/aristya-vika-abab17b3/)**
 
 # Generasi Gigih 2.0 as Data Analyst Participant
 ### Group Assignment about analyze the impact on player retention and game rounds on the Cookie Cats Games.
